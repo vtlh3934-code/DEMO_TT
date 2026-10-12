@@ -10,15 +10,3 @@ C:\Users\Admin\source\repos\demoCtr\demoCtr\obj\Debug\demoCtr.exe
 C:\Users\Admin\source\repos\demoCtr\demoCtr\obj\Debug\demoCtr.pdb
 C:\Users\Admin\source\repos\demoCtr\demoCtr\obj\Debug\demoCtr.Form2.resources
 C:\Users\Admin\source\repos\demoCtr\demoCtr\obj\Debug\demoCtr.Form3.resources
-D:\lập trình mạng\nhóm\demo\DEMO_TT\demoCtr\demoCtr\bin\Debug\demoCtr.exe.config
-D:\lập trình mạng\nhóm\demo\DEMO_TT\demoCtr\demoCtr\bin\Debug\demoCtr.exe
-D:\lập trình mạng\nhóm\demo\DEMO_TT\demoCtr\demoCtr\bin\Debug\demoCtr.pdb
-D:\lập trình mạng\nhóm\demo\DEMO_TT\demoCtr\demoCtr\obj\Debug\demoCtr.csproj.AssemblyReference.cache
-D:\lập trình mạng\nhóm\demo\DEMO_TT\demoCtr\demoCtr\obj\Debug\demoCtr.Form1.resources
-D:\lập trình mạng\nhóm\demo\DEMO_TT\demoCtr\demoCtr\obj\Debug\demoCtr.Form2.resources
-D:\lập trình mạng\nhóm\demo\DEMO_TT\demoCtr\demoCtr\obj\Debug\demoCtr.Form3.resources
-D:\lập trình mạng\nhóm\demo\DEMO_TT\demoCtr\demoCtr\obj\Debug\demoCtr.Properties.Resources.resources
-D:\lập trình mạng\nhóm\demo\DEMO_TT\demoCtr\demoCtr\obj\Debug\demoCtr.csproj.GenerateResource.cache
-D:\lập trình mạng\nhóm\demo\DEMO_TT\demoCtr\demoCtr\obj\Debug\demoCtr.csproj.CoreCompileInputs.cache
-D:\lập trình mạng\nhóm\demo\DEMO_TT\demoCtr\demoCtr\obj\Debug\demoCtr.exe
-D:\lập trình mạng\nhóm\demo\DEMO_TT\demoCtr\demoCtr\obj\Debug\demoCtr.pdb
